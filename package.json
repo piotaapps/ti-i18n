@@ -19,7 +19,7 @@
     "i18n",
     "internationalization"
   ],
-  "version": "0.5.5",
+  "version": "0.5.6",
   "author": {
     "name": "Fokke Zandbergen",
     "email": "mail@fokkezb.nl"
@@ -32,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/fokkezb/ti-i18n.git"
+    "url": "git://github.com/piotapps/ti-i18n.git"
   },
   "preferGlobal": true,
   "dependencies": {
